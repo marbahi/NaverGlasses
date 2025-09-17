@@ -1,0 +1,81 @@
+Kerucut Lalu Lintas
+Bendera
+Lubang Kecil
+Cermin Cembung
+Motor
+Orang
+Pot Tanaman
+Gerobak
+Mobil
+Payung
+Truk
+Batu Sedang
+Batu Kecil
+Kulkas
+Tangga
+Kalender
+Oven
+Kompor
+Minyak
+Panci
+Keran
+Wastafel
+Toples
+Microwave
+Galon
+Baju
+Kendi
+Gelas
+Kursi
+Dispenser
+WC Duduk
+Pel
+Shower
+Bak
+Ember Kecil
+Sikat Gigi
+Sabun
+Odol
+Pintu
+Aquarium
+Kasur
+Kipas Angin
+Monitor
+Headset
+Bantal
+Guling
+Sisir
+Sajadah
+Dompet
+TV
+Remote
+Sofa Kayu
+Meja
+Tisu
+Sepeda Kecil
+Sepeda
+Tong Sampah
+Bajaj
+Zebra Cross
+Braille Blocks
+Tanda Dilarang Masuk
+Tanda Dilarang Parkir
+Tanda Dilarang Belok
+Lampu Merah
+Lampu Hijau
+Lampu Kuning
+Pengendara Motor
+Pembatas Jalan
+Bus
+Kursi Plastik
+Sofa
+Piring
+1000
+2000
+5000
+10000
+20000
+50000
+100000
+Lemari
+Mesin Cuci
